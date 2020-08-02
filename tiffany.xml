@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project path="device/xiaomi/tiffany" name="EndCredits/android_device_xiaomi_tiffany" revision="lineage-16.0" />
+	<project path="device/xiaomi/msm8953-common" name="EndCredits/android_device_xiaomi_msm8953-common" revision="lineage-16.0" />
+        <project path="kernel/xiaomi/msm8953" name="EndCredits/android_kernel_xiaomi_msm8953-1" revision="lineage-16.0" />
+	<project path="vendor/xiaomi" name="EndCredits/vendor_xiaomi" revision="lineage-16.0" />
+	<project path="vendor/xiaomi/MiuiCamera" name="EndCredits/vendor_xiaomi_MiuiCamera" revision="pie" />
+	
+	<project path="rpm/" name="EndCredits/droid-hal-tiffany" revision="master" />
+	<project path="hybris/droid-configs" name="EndCredits/droid-config-tiffany" revision="master" />
+	<project path="hybris/droid-hal-version-hammerhead" name="EndCredits/droid-hal-version-tiffany" revision="master" />
+</manifest>
+
